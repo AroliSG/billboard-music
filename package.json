@@ -1,0 +1,13 @@
+{
+  "name": "billboard-music",
+  "version": "1.0.0",
+  "description": "get top music world wide",
+  "main": "app.js",
+  "author": "AroliSG",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "flatted": "^3.2.4"
+  }
+}
