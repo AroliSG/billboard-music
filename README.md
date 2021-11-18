@@ -10,7 +10,7 @@ npm i billboard-music
 
 yarn env
 ```sh
-yarn i billboard-music
+yarn add billboard-music
 ```
 
 ## Props
