@@ -6,7 +6,7 @@ const api_url = 'https://www.billboard.com/charts';
     /**
      * @param {NameId} chartTypes
     **/
-
+//singa tu madre
 const chartTypes = {
     '100': 'hot-100/',
     '200': 'the-billboard-200/',
